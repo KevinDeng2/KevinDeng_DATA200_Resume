@@ -1,11 +1,11 @@
 ---
-title: "Nota Realperson"
-author: Kyle M Monahan
+title: "Kevin Deng"
+author: Kevin Deng
 date: "`r Sys.Date()`"
 output:
-  pagedown::html_resume:
+  pagedown::html_resume
     # Thanks to Eric R. Scott for this tip! 
-    self_contained: false
+    #self_contained: false
 ---
 
 Aside
@@ -13,30 +13,28 @@ Aside
 
 
 ![Data](data_icon.png){width=30%}
-<!-- ![Data](`r here::here("data_icon.png")`) -->
+
 
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> NotaRealperson@gmail.com
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i> kevin.deng@tufts.edu
+- <i class="fa fa-github"></i> [github.com/KevinDeng2/](https://github.com/KevinDeng2/)
+- <i class="fa fa-phone"></i> +1 908-240-5122
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- List your **key skills**, linked to the job description.
+- Regression Analysis and Machine Learning Experience in Python and R
 
-- Performing **data analysis**, with a focus on financial models
+- Programming Experience in Java, C, Javascript
 
-- Experienced in **data communication** and client relations
+- Proficient in SQL, Excel, and Tableau
 
-- Wrote production-level **R/Python/Stata/SQL** 
-
-- **Machine Learning** on cloud platforms (AWS)
+- Effective Communicator with Writing and Teaching Experience
 
 
 
@@ -53,10 +51,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Nota Realperson {#title}
+Kevin Deng {#title}
 --------------------------------------------------------------------------------
 
-### Data analysis and visualization expert seeking Spring 2020 internship
+### Data Analytics MS Candidate Seeking Summer 2020 Internship Opportunities
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -64,80 +62,95 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Data Analytics
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
-### Undergraduate University
+### Boston College
 
-B.A. in Finance
+B.A. in Computer Science, Minor in English
 
-Troy, NY 
+Chestnut Hill, MA
 
-2008--2012
+2016--2020
 
 
 
-Research Experience {data-icon=flask}
+Intern Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### IT Audit Intern
 
-Tufts University
+Fidelity Investments
 
-Medford, MA
+Jersey City, NJ
 
-2014--2019
+June--August 2019
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Evaluated risks associated with Fidelity’s technology-based products and systems
+- Confirmed that controls were in place to ensure accurate data processing and appropriate access to financial data
+- Reported and discussed findings with SMEs so that required changes could be made
+
+### Intern
+
+U.S. Securities and Exchange Commission
+
+New York, New York
+
+May--August 2018
+
+- Worked with Quantitative Analytics Unit on text analytics machine learning project
+- Conducted research and gathered information using ElementTree and NLTK libraries in Python
+- Gathered data and registrant information using SQL queries
 
 
 
-Selected Project Experience {data-icon=chalkboard-teacher}
+
+Other Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### DATA-200 Foundations of Data Analyics 
+### Student Ambassador, Digital Humanities Committee Chair
 
-Tufts University
+McMullen Museum of Art, Boston College
 
-Medford, MA
+Brighton, MA
 
-2016--2018
+2017--2020
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Led project to build interactive digital tours in 3D Vista, produced podcasts featuring professors’ discussions of featured exhibits
+- Managed museum's Facebook page to promote events and publicize featured exhibitions
+- Planned student/public events, developed methods for outreach to other museums in Boston
 <!--:::-->
 
+### Teaching Assistant
+
+Boston College
+
+Chestnut Hill, MA
+
+January--December 2019
+
+- Held Office Hours for students in Randomness & Computation (CSCI 2244) and Data Analytics in Practice (ISYS 3340/7705) courses
+- Answered conceptual questions pertaining to probability, statistics, and computer programming
+- Taught programming in R for data science concepts (ISYS 3340/7705)
 
 
-
-### Other project
-
-Tufts University
-
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
-
-
-
-Selected Presentations {data-icon=comment-alt}
+Extracurricular Experiences {data-icon=comment-alt}
 --------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+### Southeast Asian Student Association, Family Head
 
-Medford, MA
+Boston College
 
-March 2019
+Chestnut Hill, MA
+
+2019-2020
+
+- Served as mentor for members of the SEASA community
+- Organized events for other students to create a safe environment; developed an understanding of Southeast Asian culture
+
 
 
