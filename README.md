@@ -1,4 +1,4 @@
 # data200_datascienceresumes
-A collection of data science resumes for the DATA-200 course. 
+A resume created using R Pagedown.
 
-Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package. Thanks to you both! 
+Template found in the Rmd file, and resulting Resume found in the PDF file.
